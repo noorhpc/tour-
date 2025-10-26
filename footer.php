@@ -25,6 +25,7 @@
                     </div>
                 </div>
 
+<<<<<<< HEAD
                 <div class="col-sm-3">
                     <div class="single-footer-item">
                         <h2>popular destinations</h2>
@@ -49,6 +50,9 @@
                         </div>
                     </div>
                 </div>
+=======
+						
+>>>>>>> a5f678471ea310fbd41d2f1479ffc924b2c10a54
 
             </div>
         </div>
