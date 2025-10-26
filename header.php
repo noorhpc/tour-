@@ -90,11 +90,11 @@
 								<div class="collapse navbar-collapse">		  
 									<ul class="nav navbar-nav navbar-right">
 										<li class="smooth-menu"><a href="#home">home</a></li>
-										<li class="smooth-menu"><a href="#gallery">Destination</a></li>
-										<li class="smooth-menu"><a href="#pack">Packages </a></li>
-										<li class="smooth-menu"><a href="#spo">Special Offers</a></li>
-										<li class="smooth-menu"><a href="#blog">blog</a></li>
-										<li class="smooth-menu"><a href="#subs">subscription</a></li>
+										<li class="smooth-menu"><a href="destination.php">Destination</a></li>
+										<li class="smooth-menu"><a href="pakages.php">Packages </a></li>
+										<!-- <li class="smooth-menu"><a href="#spo">Special Offers</a></li> -->
+										<li class="smooth-menu"><a href="blog.php">blog</a></li>
+										<li class="smooth-menu"><a href="contact.php">contact</a></li>
 										<li>
 											<button class="book-btn">book now
 											</button>

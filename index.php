@@ -639,7 +639,7 @@
 				</div><!--/.gallery-details-->
 			</div><!--/.container-->
 
-		</section><!--/.gallery-->
+		<!-- </section>/.gallery -->
 		<!--gallery end-->
 
 
